@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Lottery/static/js/main.e569db1e.js",
+    "index.html": "/Lottery/index.html",
+    "main.e569db1e.js.map": "/Lottery/static/js/main.e569db1e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e569db1e.js"
+  ]
+}
